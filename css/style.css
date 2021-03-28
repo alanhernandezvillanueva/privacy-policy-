@@ -9,11 +9,13 @@ body {
   color: #39a6b2;
   font-family: Helvetica, Arial, sans-serif;
 }
-
+ß
 /* apply styles to <header> */
 header {
   padding: 20px 35px;
   background-color: #39a6b2;
+  background-attachment: fixed;
+  background-image: url('../image/hero-bg.jpg');
 }
 
 header h1 {
